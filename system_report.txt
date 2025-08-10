@@ -1,0 +1,155 @@
+[2025-07-30 18:10:06] Log file '/home/ritesh111/linux-monitor/logs/system_report.log' exceeded 10KB. Rotating...
+----- System Report at 2025-07-30 18:10:06 -----
+CPU Usage: 1.5%
+Memory Usage: 11.24%
+Disk Usage: 1%
+Battery Level: 100%
+ssh is running
+--------------------------------------
+----- System Report at 2025-07-30 18:15:04 -----
+CPU Usage: 3.2%
+Memory Usage: 11.24%
+Disk Usage: 1%
+Battery Level: 100%
+ssh is running
+--------------------------------------
+----- System Report at 2025-07-30 18:20:04 -----
+CPU Usage: 1.6%
+Memory Usage: 11.16%
+Disk Usage: 1%
+Battery Level: 100%
+ssh is running
+--------------------------------------
+----- System Report at 2025-07-30 18:25:01 -----
+CPU Usage: 0%
+Memory Usage: 11.30%
+Disk Usage: 1%
+Battery Level: 100%
+ssh is running
+--------------------------------------
+----- System Report at 2025-07-30 18:30:01 -----
+CPU Usage: 0%
+Memory Usage: 11.32%
+Disk Usage: 1%
+Battery Level: 100%
+ssh is running
+--------------------------------------
+----- System Report at 2025-07-30 18:35:01 -----
+CPU Usage: 1.5%
+Memory Usage: 11.27%
+Disk Usage: 1%
+Battery Level: 100%
+ssh is running
+--------------------------------------
+----- System Report at 2025-07-30 18:40:01 -----
+CPU Usage: 3.1%
+Memory Usage: 11.27%
+Disk Usage: 1%
+Battery Level: 100%
+ssh is running
+--------------------------------------
+----- System Report at 2025-07-30 18:45:01 -----
+CPU Usage: 1.5%
+Memory Usage: 11.10%
+Disk Usage: 1%
+Battery Level: 100%
+ssh is running
+--------------------------------------
+----- System Report at 2025-07-30 18:50:01 -----
+CPU Usage: 1.5%
+Memory Usage: 11.18%
+Disk Usage: 1%
+Battery Level: 100%
+ssh is running
+--------------------------------------
+----- System Report at 2025-07-30 18:55:01 -----
+CPU Usage: 1.5%
+Memory Usage: 11.16%
+Disk Usage: 1%
+Battery Level: 100%
+ssh is running
+--------------------------------------
+----- System Report at 2025-07-30 19:00:01 -----
+CPU Usage: 0%
+Memory Usage: 11.18%
+Disk Usage: 1%
+Battery Level: 100%
+ssh is running
+--------------------------------------
+----- System Report at 2025-07-30 19:05:01 -----
+CPU Usage: 0%
+Memory Usage: 11.13%
+Disk Usage: 1%
+Battery Level: 100%
+ssh is running
+--------------------------------------
+----- System Report at 2025-07-30 19:10:01 -----
+CPU Usage: 1.5%
+Memory Usage: 11.13%
+Disk Usage: 1%
+Battery Level: 100%
+ssh is running
+--------------------------------------
+----- System Report at 2025-07-30 19:15:01 -----
+CPU Usage: 3%
+Memory Usage: 11.18%
+Disk Usage: 1%
+Battery Level: 100%
+ssh is running
+--------------------------------------
+----- System Report at 2025-07-30 19:20:01 -----
+CPU Usage: 1.6%
+Memory Usage: 11.13%
+Disk Usage: 1%
+Battery Level: 100%
+ssh is running
+--------------------------------------
+----- System Report at 2025-07-30 19:25:01 -----
+CPU Usage: 1.5%
+Memory Usage: 11.13%
+Disk Usage: 1%
+Battery Level: 100%
+ssh is running
+--------------------------------------
+----- System Report at 2025-07-30 19:30:01 -----
+CPU Usage: 1.6%
+Memory Usage: 11.13%
+Disk Usage: 1%
+Battery Level: 100%
+ssh is running
+--------------------------------------
+----- System Report at 2025-07-30 19:35:01 -----
+CPU Usage: 1.5%
+Memory Usage: 11.13%
+Disk Usage: 1%
+Battery Level: 100%
+ssh is running
+--------------------------------------
+----- System Report at 2025-07-30 19:40:01 -----
+CPU Usage: 1.6%
+Memory Usage: 11.13%
+Disk Usage: 1%
+Battery Level: 100%
+ssh is running
+--------------------------------------
+----- System Report at 2025-07-30 19:47:35 -----
+CPU Usage: 1.6%
+Memory Usage: 11.05%
+Disk Usage: 1%
+Battery Level: 100%
+ssh is running
+--------------------------------------
+----- System Report at 2025-07-30 19:50:01 -----
+CPU Usage: 1.5%
+Memory Usage: 11.05%
+Disk Usage: 1%
+Battery Level: 100%
+ssh is running
+--------------------------------------
+----- System Report at 2025-07-30 19:55:02 -----
+CPU Usage: 1.6%
+Memory Usage: 11.13%
+Disk Usage: 1%
+Battery Level: 100%
+ssh is running
+--------------------------------------
